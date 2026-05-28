@@ -1,0 +1,7 @@
+name: CombatDeathRelease
+version: 1.0.0
+main: com.acesmp.combatdeathrelease.CombatDeathRelease
+api-version: '1.21'
+author: AceSMP
+description: Removes combat tag from surviving player when their opponent dies
+softdepend: [PvPBarrier]
